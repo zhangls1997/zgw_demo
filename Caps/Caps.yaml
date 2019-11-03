@@ -1,0 +1,14 @@
+-
+  deviceDesc: Vivo_X7
+  server_ip: 127.0.0.1
+  server_port: 4723
+  desired_caps:
+    platformName: Android
+    platformVersion: 5.1.1
+    deviceName: 8060b8b8
+    appPackage: com.qinhe.kaiwan
+    appActivity: com.qinhe.ispeak.MainActivity
+    noReset: true
+    unicodeKeyboard: True   #使用appium键盘
+    resetKeyboard: True
+-
