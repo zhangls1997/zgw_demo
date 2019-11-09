@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Oct 30 23:21:28 CST 2019","Wed Oct 30 23:21:28 CST 2019","4","","test_xuexi","Testcase","","","test_thour",""
-"passed","Wed Oct 30 23:21:27 CST 2019","Wed Oct 30 23:21:28 CST 2019","4","","test_xuexi","Testcase","","","test_one",""
-"passed","Wed Oct 30 23:21:28 CST 2019","Wed Oct 30 23:21:28 CST 2019","4","","test_xuexi","Testcase","","","test_three",""
-"passed","Wed Oct 30 23:21:28 CST 2019","Wed Oct 30 23:21:28 CST 2019","3","","test_xuexi","Testcase","","","test_two",""
