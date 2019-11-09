@@ -1,5 +1,4 @@
 #!/user/bin/python
-
 #!-*- coding:utf-8 -*-
 import pytest
 def add(a,b):
