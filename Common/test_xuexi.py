@@ -1,5 +1,6 @@
 #!/user/bin/python
-#!-*- coding:utf-8 -*-import pytest
+#!-*- coding:utf-8 -*-
+import pytest
 def add(a,b):
     return a+b
 def zhang(a,b):
