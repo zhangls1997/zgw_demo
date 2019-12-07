@@ -13,6 +13,7 @@ class Testcase(object):
     def test_one(self):
         print("\n正在执行-----test_one")
         assert add(1,2) == 3    #add 是上面函数的名称
+        assert add(2,3) == 6
     def test_two(self):
         print("正在执行-----test_two")
         assert zhang(1,2) == -1
