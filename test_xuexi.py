@@ -1,6 +1,8 @@
 #!/user/bin/python
 #!-*- coding:utf-8 -*-
 import pytest
+def add(a,b):
+    return a+b
 def zhang(a,b):
     return a-b
 def lu(a,b):
